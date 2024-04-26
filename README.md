@@ -1,1 +1,2 @@
-# frontendpro-hw-40
+# ДЗ 40. Reduce
+Написати свою реалзіацю функції reduce
